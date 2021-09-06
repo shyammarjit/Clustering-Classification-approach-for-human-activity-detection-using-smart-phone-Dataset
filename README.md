@@ -1,0 +1,1 @@
+# Clustering-Classification-approach-for-human-activity-detection-using-smart-phone-Dataset
